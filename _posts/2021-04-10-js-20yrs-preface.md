@@ -1,6 +1,6 @@
 ---
 layout:       post
-title:        "《JavaScript 二十年》推荐语"
+title:        "example"
 author:       "Hux"
 header-style: text
 catalog:      true
